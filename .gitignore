@@ -2,11 +2,11 @@
 __pycache__/
 *.pyc
 *.pyo
-output/
-logs/
-materials/
-research/
-vendor/
+/output/
+/logs/
+/materials/
+/research/
+/vendor/
 runtime-python.txt
 lens-selection.json
 *.lnk
