@@ -1,0 +1,17 @@
+{
+  "repository": "https://github.com/RSKothari/EllSeg",
+  "commit": "8f1ea13336fa9c662403bd5823ac13cc6a6dd632",
+  "checkpoint": "weights/all.git_ok",
+  "checkpoint_sha256": "0b8d3f4c2c936de3950150d302f3608679874317862942e1ec53b21c33a03a1a",
+  "source_files": {
+    "models\\RITnet_v3.py": "2a23efe9c45c138d444145f746b2cebb5ed084c3a7d7795ccc7a91fce0cb5bb3",
+    "utils.py": "bda934517af835ed5e0f7466236bf982232a5a672f60584825bd6df019bebba4"
+  },
+  "changes": [
+    "Extract inference blocks",
+    "np.int replaced by int",
+    "eval() used for inference",
+    "No training loss or data dependencies; no retraining"
+  ],
+  "ellipse_mapping": "Follow evaluate_ellseg.py: iris regression[2:5], pupil regression[7:10]; comments in upstream utils conflict with runtime ordering."
+}
