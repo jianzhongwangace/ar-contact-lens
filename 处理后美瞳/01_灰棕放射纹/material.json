@@ -1,0 +1,35 @@
+{
+  "version": 7,
+  "source": "C:\\Users\\16087\\Desktop\\AR美瞳\\下载美瞳超清图片.png",
+  "source_sha256": "13f4ccc502a81930d74ae8de46e8eb871e1e6291aff8a1e83e3b1a26d5ed1477",
+  "calibration": {
+    "cx": 1011.97,
+    "cy": 1018.228203125,
+    "rx": 339.9655125,
+    "ry": 363.4170375,
+    "angle": 83.06861114501953,
+    "hole": 0.4708823529411764,
+    "repair_reflections": true,
+    "transparent_source": false,
+    "reflection_regions": [
+      [
+        0.39,
+        0.385,
+        0.039,
+        0.016,
+        -43
+      ],
+      [
+        0.407,
+        0.407,
+        0.022,
+        0.011,
+        -43
+      ]
+    ]
+  },
+  "method": "bright-background approximation",
+  "reflection_repair_fraction": 0.045008680555555555,
+  "warning": "Reflection repair and alpha estimation are approximate; verify against source/product.",
+  "size": 512
+}

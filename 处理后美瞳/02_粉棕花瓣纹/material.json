@@ -1,0 +1,42 @@
+{
+  "version": 7,
+  "source": "C:\\Users\\16087\\Desktop\\AR美瞳\\生成美瞳超清晰图片 (1).png",
+  "source_sha256": "3dbd0288b08a01386f4fd8a0020da4a35b2c68933377f554bd1832722ce505b4",
+  "calibration": {
+    "cx": 1013.76,
+    "cy": 1003.52,
+    "rx": 624.64,
+    "ry": 645.12,
+    "angle": 0,
+    "hole": 0.41,
+    "repair_reflections": true,
+    "transparent_source": false,
+    "reflection_regions": [
+      [
+        0.358,
+        0.356,
+        0.075,
+        0.078,
+        -20
+      ],
+      [
+        0.293,
+        0.256,
+        0.105,
+        0.022,
+        -40
+      ],
+      [
+        0.751,
+        0.705,
+        0.13,
+        0.024,
+        -45
+      ]
+    ]
+  },
+  "method": "bright-background approximation",
+  "reflection_repair_fraction": 0.08153211805555556,
+  "warning": "Reflection repair and alpha estimation are approximate; verify against source/product.",
+  "size": 512
+}

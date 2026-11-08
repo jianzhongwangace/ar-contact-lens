@@ -1,0 +1,12 @@
+{
+  "checkpoint_sha256": "0b8d3f4c2c936de3950150d302f3608679874317862942e1ec53b21c33a03a1a",
+  "onnx_sha256": "b0608626fc06bc12027a1a2b7fb47928f3747043bc1a04bda3e046c325ff0f43",
+  "input": [
+    1,
+    1,
+    240,
+    320
+  ],
+  "precision": "float32",
+  "opset": 17
+}

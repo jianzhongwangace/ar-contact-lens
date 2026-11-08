@@ -1,0 +1,9 @@
+numpy==1.26.4
+opencv-contrib-python==4.11.0.86
+Pillow>=10
+mediapipe==0.10.21
+jax==0.4.35
+jaxlib==0.4.35
+protobuf==4.25.9
+onnx==1.17.0
+onnxruntime-directml==1.22.0; sys_platform == 'win32'

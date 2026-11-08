@@ -1,0 +1,8 @@
+{
+  "format": "FP32 ONNX opset 17",
+  "batch": 2,
+  "height": 160,
+  "width": 256,
+  "source_checkpoint_sha256": "71119c33a8a95a83ff6315260cda62eed5a26ad97c7b3934630d7579a32e27f1",
+  "onnx_sha256": "6601d68d45dd58bef229c6411f028e84253c086b4cedf2ced5918ffa36a90162"
+}

@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+output/
+logs/
+materials/
+research/
+vendor/
+runtime-python.txt
+lens-selection.json
+*.lnk
+.DS_Store
+Thumbs.db
+EllSeg部署/outputs/
+EllSeg部署/__pycache__/
+EllSeg部署/runtime-python.txt
